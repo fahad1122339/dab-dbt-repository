@@ -1,11 +1,8 @@
-
 {{
   config(
     materialized='table'
   )
 }}
-
-
 
 SELECT
   ### Key ###  
